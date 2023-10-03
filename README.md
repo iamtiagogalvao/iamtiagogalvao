@@ -1,16 +1,47 @@
-### Hi there 👋
+# Hello, World! 👋 I'm Tiago Galvão
 
-<!--
-**iamtiagogalvao/iamtiagogalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+👨‍💻 | Full Stack Developer | Open Source Enthusiast
 
-Here are some ideas to get you started:
+Hi, I’m Tiago Galvão, a full stack developer passionate about frontend technologies, building scalable applications, contributing to open-source projects, and sharing knowledge with others. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Visit my [portfolio](https://tiagogalvao.com/portfolio/utm_source=github-readme) for more details about my work and projects.
+
+## 🚀 Technical Skills
+
+### 🛠 Backend 
+- **PHP, Node, Python**
+- **SQL & Firebase**
+
+### 🌐 Frontend 
+- **Javascript (Vue JS, jQuery, React)**
+- **HTML5, CSS3, SASS**
+
+### 📚 CMS 
+- **WordPress, Directus, Cockpit**
+
+### 🌟 General 
+- **REST APIs, GIT**
+- **Design: Figma, Adobe XD**
+- **CI / CD, Task Automation**
+- **Gulp, Webpack, VS Code**
+
+## 🌟 Featured Projects
+
+### [TG Starter Theme](https://github.com/iamtiagogalvao/tg-starter-theme)
+A modern, fast, and ultra-optimized WordPress Starter Theme equipped with a powerful CLI and automation.
+
+## 🌱 I’m currently learning
+
+- Docker
+- Kubernetes
+
+## 🤝 Let's Connect!
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tiagogalvao1/) or visit my [portfolio](https://tiagogalvao.com/portfolio/utm_source=cv).
+
+[Use platforms like dev.to to showcase your writings directly on GitHub]
+
+## 📊 GitHub Stats
+
+[![iamtiagogalvao's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamtiagogalvao&show_icons=true&theme=radical)](https://github.com/iamtiagogalvao)
