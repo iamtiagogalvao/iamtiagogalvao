@@ -39,7 +39,3 @@ A modern, fast, and ultra-optimized WordPress Starter Theme equipped with a powe
 ## 🤝 Let's Connect!
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tiagogalvao1/) or visit my [portfolio](https://tiagogalvao.com/portfolio/utm_source=cv).
-
-## 📊 GitHub Stats
-
-[![iamtiagogalvao's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamtiagogalvao&show_icons=true&theme=radical)](https://github.com/iamtiagogalvao)
