@@ -10,17 +10,18 @@ Hi, I’m Tiago Galvão, a full stack developer passionate about frontend techno
 ## 🚀 Technical Skills
 
 ### 🛠 Backend 
-- **PHP, Node, C# Python**
-- **MySQL, PostgresSQL, Firebase**
+- **C#, Node, PHP, Python**
+- **PostgresSQL, MySQL, Firebase**
 
 ### 🌐 Frontend 
-- **Javascript, Typescript, Vue JS, jQuery, React**
-- **HTML5, CSS3, SASS**
+- **Javascript, Typescript, Vue JS, Nuxt 4**
+- **Tailwind 4, HTML5, CSS3, SASS**
 
 ### 📚 CMS 
 - **WordPress, Directus, Cockpit**
 
-### 🌟 General 
+### 🌟 General
+- **Docker, Dokploy, Traefik, Nginx, Linux Systems**
 - **REST APIs, GIT**
 - **Design: Figma, Adobe XD**
 - **CI / CD, Task Automation**
@@ -29,3 +30,6 @@ Hi, I’m Tiago Galvão, a full stack developer passionate about frontend techno
 ## 🤝 Let's Connect!
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tiagogalvao1/) or visit my [portfolio](https://tiagogalvao.com/portfolio/utm_source=github-readme).
+
+## Shout out for some really cool projects and tools:
+- [ToolkitVault.com](https://toolkitvault.com?utm_source=github-readme) - A collection of free tools and API's for developers, web entrepreneurs and old-school geeks.
