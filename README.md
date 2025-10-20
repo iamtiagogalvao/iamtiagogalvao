@@ -5,7 +5,7 @@
 
 Hi, I’m Tiago Galvão, a full stack developer passionate about frontend technologies, building scalable applications, contributing to open-source projects, and sharing knowledge with others. 
 
-🌐 Visit my [portfolio](https://tiagogalvao.com/portfolio/utm_source=github-readme) for more details about my work and projects.
+🌐 Visit my [portfolio](https://tiagogalvao.com/portfolio?utm_source=github-readme) for more details about my work and projects.
 
 ## 🚀 Technical Skills
 
