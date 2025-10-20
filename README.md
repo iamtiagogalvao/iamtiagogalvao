@@ -29,7 +29,7 @@ Hi, I’m Tiago Galvão, a full stack developer passionate about frontend techno
 
 ## 🤝 Let's Connect!
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tiagogalvao1/) or visit my [portfolio](https://tiagogalvao.com/portfolio/utm_source=github-readme).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tiagogalvao1/) or visit my [portfolio](https://tiagogalvao.com/portfolio?utm_source=github-readme).
 
 ## Shout out for some really cool projects and tools:
 - [ToolkitVault.com](https://toolkitvault.com?utm_source=github-readme) - A collection of free tools and API's for developers, web entrepreneurs and old-school geeks.
