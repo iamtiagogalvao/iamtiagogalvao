@@ -33,4 +33,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tiagogalv
 
 ## Shout out for some really cool projects and tools:
 - [ToolkitVault.com](https://toolkitvault.com?utm_source=github-readme) - A collection of free tools and API's for developers, web entrepreneurs and old-school geeks.
-- [UUID Generator API (v1–v7) For your testing needs — ToolkitVault](https://toolkitvault.com/uuid-generator/uuid-api-docs?utm_source=github-readme) - Free, no-auth JSON API for UUIDs (v1–v7) with bulk generation, namespaces, and formatting.
+- [UUID Generator API (v1–v7) For your testing needs — ToolkitVault](https://toolkitvault.com/uuid-generator/uuid-api-docs?utm_source=github-readme) - Free, no-auth JSON API for UUIDs (v1–v7) with bulk generation, namespaces, and formatting
+- [SMTPZen.com](https://smtpzen.com?utm_source=github-readme) - An amazing and reliable SMTP mail sending service with high deliverability and unlimited mailboxes. Ideal for devs looking for quick email service or SMTP Relay for their apps.
+
